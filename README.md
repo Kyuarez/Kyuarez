@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cyphen&fontSize=60&fontAlignY=35&desc=끊임없는%20호기심으로%20새로운%20도전을%20즐기는%20개발자&descAlignY=60&descAlign=62"/>
 
 ## 👋 About Me
 
